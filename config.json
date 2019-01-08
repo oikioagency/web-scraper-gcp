@@ -1,9 +1,9 @@
 {
   "domain": "oikio.fi",
   "startUrl": "https://oikio.fi/",
-  "projectId": "web-scraper-gcp",
+  "projectId": "scraper-testi",
   "bigQuery": {
-    "datasetId": "web_scraper_gcp",
+    "datasetId": "web_scraper_gcp_uusi",
     "tableId": "crawl_results"
   },
   "redis": {
