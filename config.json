@@ -1,6 +1,6 @@
 {
-  "domain": "gtmtools.com",
-  "startUrl": "https://www.gtmtools.com/",
+  "domain": "oikio.fi",
+  "startUrl": "https://oikio.fi/",
   "projectId": "web-scraper-gcp",
   "bigQuery": {
     "datasetId": "web_scraper_gcp",
