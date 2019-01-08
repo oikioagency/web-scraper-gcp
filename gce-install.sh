@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-bucket='gs://web-scraper-config/config.json'
+bucket='gs://scraper-testi/config.json'
 
 set -v
 
