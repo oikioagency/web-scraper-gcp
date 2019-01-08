@@ -17,7 +17,7 @@ curl https://nodejs.org/dist/latest/node-v11.6.0-linux-x64.tar.gz | tar vxzf - -
 ln -s /opt/nodejs/bin/node /usr/bin/node
 ln -s /opt/nodejs/bin/npm /usr/bin/npm
 
-git clone https://github.com/sahava/web-scraper-gcp.git
+git clone https://github.com/oikioagency/web-scraper-gcp.git
 
 cd web-scraper-gcp
 sudo npm install
